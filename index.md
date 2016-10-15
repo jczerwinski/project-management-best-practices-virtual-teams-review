@@ -33,7 +33,7 @@ Integrating remote teams into projects can be accomplished by performing the fol
 
   5. Implement these selections.
 
-## Define Feasible Team Composition Options
+### Define Feasible Team Composition Options
 
 The set of feasible remote and colocated team composition options must first be defined before any analysis, selection, integration, or implementation of such options can be performed. The options to be defined may range from few to numerous and simple to complex depending on the size and complexity of the project under consideration.
 
@@ -53,30 +53,43 @@ The criteria by which the set of acceptable options is chosen will be highly con
 
 ### Integrate Acceptable Options into Project Management Plan
 
-Once the set of acceptable team composition options has been selected, 
+Once the set of acceptable team composition options has been selected, it must be integrated into the project management plan. 
+
+This integration takes place primarily within the project planning process group and the project human resource management knowledge area; however, significant work will also be required throughout almost all knowledge areas.[pmbok]
 
 ### Implement Options
 
-### Costs of Remote Teams
+The final step of integrating remote teams into a project is to implement the remote team provisions of the project management plan. This implementation takes place primarily within the executing and monitoring and controlling process groups, and across almost every project management knowledge area.
+
+## Costs of Remote Teams
 
 Summary of costs
 
-#### Reduced Productivity
-#### Reduced Team Visibility
-#### Reduced Engagement
-#### Reduced Work Environment Control
-#### Time Zone Differences
+### Ostensibly Reduced Productivity
 
-### Benefits of Remote Teams
+Teasley et. al. suggest that radically co-located software teams are more productive than other team configuration formats.[radical-co-location] The authors of this study ascribe the success of radical co-location primarily to the benefit of having all team members within immediate proximity of one another for communication purposes. This implies that because remote teams experience distance as a barrier to face-to-face communication, they will tend to underperform more co-located teams.
+
+
+
+### Reduced Team Visibility
+### Reduced Engagement
+### Reduced Work Environment Control
+### Time Zone Differences
+
+## Benefits of Remote Teams
 
 Summary of benefits
 
-#### Increased Work-Life Balance
-#### Increased Documentation and Formalization of Communication
-#### Expanded Talent Pool
-#### Reduced Commuting
+### Ostensibly Increased Productivity
+### Increased Work-Life Balance
+### Increased Documentation and Formalization of Communication
+### Expanded Talent Pool
 
-## Best Practices
+Labour from lower-cost areas.
+
+### Reduced Commuting
+
+## Remote Team Best Practices
 
 Summary of best practices
 
