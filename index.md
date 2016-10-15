@@ -69,10 +69,14 @@ Summary of costs
 
 Teasley et. al. suggest that radically co-located software teams are more productive than other team configuration formats.[radical-co-location] The authors of this study ascribe the success of radical co-location primarily to the benefit of having all team members within immediate proximity of one another for communication purposes. This implies that because remote teams experience distance as a barrier to face-to-face communication, they will tend to underperform more co-located teams.
 
-
-
 ### Reduced Team Visibility
+
+
+
 ### Reduced Engagement
+
+Employees that work from home more than 2.5 days per week appears to harm 
+
 ### Reduced Work Environment Control
 ### Time Zone Differences
 
