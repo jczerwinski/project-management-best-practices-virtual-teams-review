@@ -73,9 +73,14 @@ More specifically, telecommuting may be associated with a reduction in performan
 
 ### Poorer Team Relationships
 
-Employees that work from home more than 2.5 days per week appears to experience a reduction in the quality of their relationships with their co-workers. [consequences-of-telecommuting] 
+Employees that work from home more than 2.5 days per week appears to experience a reduction in the quality of their relationships with their co-workers. [consequences-of-telecommuting]  
 
 ### Reduced Work Environment Control
+
+The use of remote teams can reduce the level of control project leaders have over the environment of their project team members. Contracted, outsourced, or offshore teams may have different office standards than the project home office. Team members who work from home may not have the space or resources to meet home office standards. While it is possible to mitigate this loss of control with policies and support for remote teams and workers, such measures are unlikely to completely eliminate any difference.
+
+This is important because various environmental factors are known to influence office worker productivity. Temperature, lighting, office layout, workspace ergonomics, 
+
 ### Time Zone Differences
 
 ## Benefits of Remote Teams
